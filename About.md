@@ -1,6 +1,6 @@
 Name: Vladislav
 
-Team: KefiroV
+Team: none
 
 Programming languages: Python
 
